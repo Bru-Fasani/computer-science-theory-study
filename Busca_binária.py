@@ -14,3 +14,4 @@ meio = (low + high) //2
 else:
    high = meio - 1
    return -1
+
