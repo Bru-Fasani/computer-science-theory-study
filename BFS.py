@@ -25,4 +25,5 @@ graph = {
 }
 
 print("Busca em Largura:")
-bfs(graph, 'A')  # Saída: A B C E D F
+bfs(graph, 'A')  
+# Saída: A B C E D F
